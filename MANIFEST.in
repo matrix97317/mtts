@@ -1,0 +1,5 @@
+include mtts/api/config.yaml
+include mtts/api/gp.vocab
+include mtts/api/py.vocab
+include mtts/api/vctk_pretrained_model_3180.pt
+include mtts/models/vocoder/*
